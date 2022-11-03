@@ -1,4 +1,2 @@
-# Задачник для курса "JavaScript/DOM/Интерфейсы" для новичков
-
-Включает в себя задачи для тренировки и учебный проект.
-
+# Asian restaurant website.
+Link to view: http://course-jsbasic.javascript.ru
